@@ -41,7 +41,7 @@ I am a graduate student from the State Polytechnic of Malang. I am adventurous a
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=Figma&logoColor=white)
 ![Dribbble](https://img.shields.io/badge/Dribbble-%2300C4CC.svg?&style=for-the-badge&logo=dribbble&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Medium](https://img.shields.io/badge/Medium-%20Sheets-34A853?style=for-the-badge&logo=medium&logoColor=white)
+![Medium](https://img.shields.io/badge/Medium-34A853?style=for-the-badge&logo=medium&logoColor=white)
 
 
 
